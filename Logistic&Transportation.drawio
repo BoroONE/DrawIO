@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1977" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2078" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="80" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-100" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="257.79" y="372.6" width="20" height="524.82" as="geometry" />
+        </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="620" width="190" height="30" as="geometry" />
         </mxCell>
@@ -25,12 +31,6 @@
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-3" value="SO&amp;nbsp;&lt;div&gt;(177)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PvaBhO4NJk3QBFCh-NM1-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="154.5" as="sourcePoint" />
-            <mxPoint x="350" y="155" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="140" width="70" height="190" as="geometry" />
         </mxCell>
@@ -42,12 +42,6 @@
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-9" value="App(Fiori): Manage Sales Orders - Version 2. Action &lt;strong&gt;&quot;Create Delivery&quot;&lt;/strong&gt; directly from app." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="310" as="sourcePoint" />
-            <mxPoint x="420" y="310.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,17 +58,11 @@
             <mxPoint x="510" y="229.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-15" value="App(Fiori): Manage Outbound Delivery." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-15" value="App(Fiori): Manage Outbound Delivery. (Display)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="199" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-16" value="App(GUI): Manage Sales Orders. Action &lt;strong&gt;&quot;Create Delivery&quot;&lt;/strong&gt; directly from app." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="188" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="228" as="sourcePoint" />
-            <mxPoint x="420" y="228.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-20" value="&lt;b&gt;App:&lt;/b&gt; Custom Field.&amp;nbsp;&lt;div&gt;&lt;b&gt;Business Context:&lt;/b&gt; Sales: Sales Document&lt;/div&gt;&lt;div&gt;&lt;b&gt;UI Service:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255); color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;SD_F1873_SO_WL_SRV&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;C_SALESORDERMANAGE_SD&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;SAP GUI: &lt;/b&gt;SD_SALESDOC_GUI&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-215" y="148" width="250" height="80" as="geometry" />
@@ -87,9 +75,6 @@
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-22" value="&lt;div&gt;&lt;span style=&quot;color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-align: center; white-space-collapse: collapse; background-color: rgb(251, 251, 251);&quot;&gt;App:&lt;/b&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-align: center; white-space-collapse: collapse; background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;Custom Field.&amp;nbsp;&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Business Scenario&lt;/b&gt;: Sales Document to Delivery on Header Level&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="50" width="350" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-23" value="App: Custom Field. &lt;b&gt;Business Context:&lt;/b&gt;&amp;nbsp;Shipping: Delivery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="30" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-26" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="89.38" y="129.38" width="20" height="101.25" as="geometry" />
@@ -109,11 +94,8 @@
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-36" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Enable&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="500" width="80" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-38" value="Freight Unit&amp;nbsp;&lt;div&gt;(4200000602)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="500" width="80" height="30" as="geometry" />
+          <mxGeometry x="520" y="500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -145,8 +127,8 @@
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-46" value="App(GUI): Transportation Cockpit&lt;sup&gt;1&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="290" y="490" width="40" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-47" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Legend&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1 -&amp;nbsp;is managed internally as part of the standard system configuration.&lt;/div&gt;&lt;div&gt;ChatGPT:&amp;nbsp;direct extensibility is limited compared to other apps&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="810" width="410" height="80" as="geometry" />
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-47" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Legend&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1 -&amp;nbsp;is &lt;b&gt;managed internally&lt;/b&gt; as part of the standard system configuration.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2-&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif;&quot;&gt;You can use this BAdI &lt;b&gt;to set field properties&lt;/b&gt; for the custom fields on transportation order header level&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif;&quot;&gt;3-&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;You can use this BAdI to set field properties for the custom fields on transportation order stage level&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;4-&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;a style=&quot;background-color: initial; text-align: center;&quot; href=&quot;https://community.sap.com/t5/application-development-discussions/sales-order-creation-badi-for-s-4hana-public-cloud/m-p/13599207&quot;&gt;Sales Order Creation - BAdi for S/4HANA Public Clo... - SAP Community&lt;/a&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320.62" y="830" width="410" height="150" as="geometry" />
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-48" value="App(GUI): Define Field Catalogs for Transportation Cockpit&lt;sup&gt;1&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="280" y="460" width="40" height="210" as="geometry" />
@@ -155,12 +137,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="320" as="sourcePoint" />
             <mxPoint x="150" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="640" as="sourcePoint" />
-            <mxPoint x="410" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-60" value="App(Fiori): Manage Freight Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -175,15 +151,15 @@
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="740" as="sourcePoint" />
-            <mxPoint x="470" y="740" as="targetPoint" />
+            <mxPoint x="560" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="464.5" y="730" as="sourcePoint" />
-            <mxPoint x="464.5" y="680" as="targetPoint" />
+            <mxPoint x="554.5" y="730" as="sourcePoint" />
+            <mxPoint x="554.5" y="680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="465" y="720" />
+              <mxPoint x="555" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -224,22 +200,76 @@
           <mxGeometry x="460" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PvaBhO4NJk3QBFCh-NM1-79" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="330" width="150" height="100" as="geometry" />
+          <mxGeometry x="-300" y="250" width="290" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-82" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&lt;b style=&quot;&quot;&gt;Cloud BADI&lt;/b&gt; ??&lt;font style=&quot;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(247, 247, 247);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;/SCMTMS/TOR_HEADER_PROPERTY&lt;sup style=&quot;&quot;&gt;2&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(247, 247, 247);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;/SCMTMS/TOR_STAGE_PROPERTY&lt;sup&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(50, 54, 58); font-family: &amp;quot;72&amp;quot;, &amp;quot;72full&amp;quot;, Arial, Helvetica, sans-serif; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(247, 247, 247);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;sup style=&quot;&quot;&gt;&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="270" width="225" height="75.01" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-87" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1" source="PvaBhO4NJk3QBFCh-NM1-88">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-120" y="260" as="sourcePoint" />
-            <mxPoint x="-120" y="340" as="targetPoint" />
+            <mxPoint x="-50" y="505" as="sourcePoint" />
+            <mxPoint x="410" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="492.5" width="10" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-89" value="Dead End" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-90" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1" source="PvaBhO4NJk3QBFCh-NM1-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-120" y="510" as="sourcePoint" />
-            <mxPoint x="-120" y="430" as="targetPoint" />
+            <mxPoint x="-50" y="565" as="sourcePoint" />
+            <mxPoint x="410" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvaBhO4NJk3QBFCh-NM1-82" value="?? BADI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-155" y="365" width="60" height="30" as="geometry" />
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="552.5" width="10" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-92" value="Dead End" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="560" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-93" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="303.38" y="34" width="20" height="249.25" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-94" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Enable&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="148.62" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-96" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="305" y="115.74" width="20" height="249.25" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-97" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Enable&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="196.62" y="230.37" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-98" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="198.99" width="20" height="249.25" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-99" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Enable&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="191.62" y="313.62" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-101" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Enable&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29.380000000000006" y="625.01" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-102" value="&lt;b&gt;Direct intervention during the freight unit creation process via a dedicated BAdI is not available in the public cloud edition.&lt;sup&gt;4&lt;/sup&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="340" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-105" value="Dead End" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-181.25" y="487.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-113" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-139.5" y="448.24" as="sourcePoint" />
+            <mxPoint x="-139" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-146.25" y="460" width="10" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PvaBhO4NJk3QBFCh-NM1-114" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-168" y="230.63" as="sourcePoint" />
+            <mxPoint x="-168" y="273.88" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
